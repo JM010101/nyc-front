@@ -10,7 +10,6 @@ React + TypeScript frontend for the NYC Real Estate Zoning Platform.
 - **React Query** - Data fetching
 - **TailwindCSS** - Styling
 - **React Router** - Routing
-- **Mapbox GL JS** - Map visualization
 
 ## Setup
 
